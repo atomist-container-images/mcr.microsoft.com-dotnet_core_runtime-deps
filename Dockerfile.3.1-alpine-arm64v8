@@ -1,0 +1,2 @@
+# Tags: 3.1-alpine-arm64v8
+FROM dotnet/core/runtime-deps:3.1-alpine-arm64v8
